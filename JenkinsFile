@@ -2,7 +2,9 @@ node {
   stage ('Build') {
   echo " Here are the Build Parameter"
   
-  pwd
+  sudo -s
+  cd /opt
+  touch testfile_from_git
   echo "Build complete"
   }
   
