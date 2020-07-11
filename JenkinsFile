@@ -11,6 +11,4 @@ node {
   echo "Test complete"
   }
   
-  
-  
 }
