@@ -1,5 +1,8 @@
 node {
   stage ('Build') {
+  echo " Here are the Build Parameter"
+  
+  pwd
   echo "Build complete"
   }
   
