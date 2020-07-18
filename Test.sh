@@ -1,3 +1,3 @@
 #!/bin/bash
 sudo -s
-tocuh testfile1
+tocuh testfile2
